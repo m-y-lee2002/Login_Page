@@ -1,0 +1,24 @@
+.login_form_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.email_container{
+    margin-bottom: 10%;
+}
+#email_label{
+    padding: 0;
+}
+#passsword_label{
+    padding: 0;
+}
+.submit_container{
+    margin-top: 10%;
+}
+#login_button{
+    border-radius: 10px 10px 10px 10px;
+    width: 100%;
+}
+.submit_column{
+    padding: 0;
+}
